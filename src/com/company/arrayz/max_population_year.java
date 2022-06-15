@@ -32,5 +32,4 @@ public class max_population_year {
             }
             return maxYear;
         }
-
 }

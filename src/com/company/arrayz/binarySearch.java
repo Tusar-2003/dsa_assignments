@@ -35,7 +35,7 @@ public class binarySearch {
             {
                 end=mid-1;
 
-            }
+            }   
             else if(target>arr[mid]){
                 start=mid+1;
             }
