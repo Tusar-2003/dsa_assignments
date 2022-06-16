@@ -1,4 +1,4 @@
-package com.company.sorting;
+package com.company.searching;
 //https://leetcode.com/problems/guess-number-higher-or-lower/submissions/
 //Guess Game
 

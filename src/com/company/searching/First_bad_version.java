@@ -1,4 +1,4 @@
-package com.company.sorting;
+package com.company.searching;
 //first version control
 //https://www.youtube.com/watch?v=4n783kDY5n4
 //https://leetcode.com/problems/first-bad-version/submissions/

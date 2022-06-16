@@ -1,15 +1,14 @@
-package com.company.sorting;
-//find peak element in a zig zag array
-//https://leetcode.com/problems/find-peak-element/
+package com.company.searching;
+//Peak Index in mountain array
 //https://www.youtube.com/watch?v=W9QJ8HaRvJQ&t=3732s
-//same as mountain array
-public class find_peak_element {
+//https://leetcode.com/problems/peak-index-in-a-mountain-array/
+public class peak_index_in_mountain_array {
     public static void main(String[] args) {
-        int a[]={1,2,3,1};
-        int result=findPeakElement(a);
+        int a[]={0,1,0};
+        int result=peakIndexInMountainArray(a);
         System.out.println(result);
     }
-    public static int findPeakElement(int[] arr) {
+    public static int peakIndexInMountainArray(int[] arr) {
         int start=0,end=arr.length-1;
         while(start<end){
             int mid=start+(end-start)/2;

@@ -1,4 +1,4 @@
-package com.company.sorting;
+package com.company.searching;
 //Two Sum II - Input Array Is Sorted
 //https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/
 //https://www.youtube.com/watch?v=sAQT4ZrUfWo

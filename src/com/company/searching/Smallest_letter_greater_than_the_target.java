@@ -1,4 +1,4 @@
-package com.company.sorting;
+package com.company.searching;
 //https://leetcode.com/problems/find-smallest-letter-greater-than-target/submissions/
 //Find Smallest Letter Greater Than Target
 //https://www.youtube.com/watch?v=W9QJ8HaRvJQ&list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ&index=15

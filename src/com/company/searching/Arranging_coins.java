@@ -1,4 +1,4 @@
-package com.company.sorting;
+package com.company.searching;
 //Arrange Coins
 //https://www.youtube.com/watch?v=QnNFgzyKDhE
 //https://leetcode.com/problems/arranging-coins/solution/

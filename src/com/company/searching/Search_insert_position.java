@@ -1,4 +1,4 @@
-package com.company.sorting;
+package com.company.searching;
 //Search insert position
 //https://leetcode.com/problems/search-insert-position/
 //https://www.youtube.com/watch?v=0A40XJH_VvE

@@ -1,4 +1,4 @@
-package com.company.sorting;
+package com.company.searching;
 //Valid Perfect Square
 //https://leetcode.com/problems/valid-perfect-square/
 //https://www.youtube.com/watch?v=Dym8_DkOWL4

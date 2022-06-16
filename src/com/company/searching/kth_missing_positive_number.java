@@ -1,4 +1,4 @@
-package com.company.sorting;
+package com.company.searching;
 //Kth missing positive number
 //https://leetcode.com/problems/kth-missing-positive-number/submissions/
 //https://www.youtube.com/watch?v=PM0sn2ggtlE&t=6s

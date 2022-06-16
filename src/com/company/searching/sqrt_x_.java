@@ -1,4 +1,4 @@
-package com.company.sorting;
+package com.company.searching;
 //Sqrt(x)
 //https://leetcode.com/problems/sqrtx/discuss/2152101/Java-or-Binary-Search-Solution
 //https://leetcode.com/problems/sqrtx/
