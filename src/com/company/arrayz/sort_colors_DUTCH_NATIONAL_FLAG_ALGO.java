@@ -7,7 +7,7 @@ import java.util.Arrays;
 
 public class sort_colors_DUTCH_NATIONAL_FLAG_ALGO {
     public static void main(String[] args) {
-        int a[]={2,0,2,1,1,0};
+        int a[]={0,1,1,0,0,1,1,0,2};
         sortColors(a);
 
     }
